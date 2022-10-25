@@ -1,0 +1,12 @@
+.item {
+  color: bisque;
+}
+
+.myPosts button {
+  width: 90px;
+}
+
+.postsTextArea {
+  display: flex;
+  width: 300px;
+}
